@@ -5,9 +5,11 @@ Resume Analysis and job Recommendation System A machine learning based applicati
 
 #Environment variables
 Create a `.env` file in the backend folder and add:
-
+#Database Connection
 MONGO_URI=mongodb+srv://User_Name:<Password>@cluster0.p6roqvc.mongodb.net/?appName=Cluster0
+#JWT secret Key
 JWT_SECRET=supersecretkey
+#Job search API
 RAPIDAPI_KEY= key
 
 
