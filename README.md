@@ -1,16 +1,17 @@
 # Resume-Analysis-and-job-Recommendation
 Resume Analysis and job Recommendation System A machine learning based application that analyzes resumes using NLP techniques to extract skills and key information, and recommends suitable job roles based on extracted skills.
 
+# Database Connection
+MONGO_URI=mongodb+srv://user_name:<Password>@cluster0.p6roqvc.mongodb.net/?appName=Cluster0
 
-
-#Environment variables
-Create a `.env` file in the backend folder and add:
-#Database Connection
-MONGO_URI=mongodb+srv://User_Name:<Password>@cluster0.p6roqvc.mongodb.net/?appName=Cluster0
-#JWT secret Key
+# JWT Secret Key
 JWT_SECRET=supersecretkey
-#Job search API
+
+# JSearch API Key (from RapidAPI)
 RAPIDAPI_KEY= key
+
+
+
 
 
 
