@@ -10,3 +10,6 @@ nltk
 scikit-learn
 pandas
 PyJWT
+Werkzeug
+rapidfuzz
+
