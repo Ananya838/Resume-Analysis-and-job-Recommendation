@@ -66,20 +66,20 @@ Smart Resume Analyzer & Job Recommender is an AI-driven web application that hel
 project-root/
 │
 ├── backend/
-│ ├── app.py # Main Flask application
-│ ├── requirements.txt # Backend dependencies
-│ ├── routes/ # API routes (auth, resume, jobs)
-│ ├── models/ # Database models
-│ ├── utils/ # NLP and resume processing logic
-│ └── .env # Environment variables
+│   ├── app.py              # Main Flask application
+│   ├── requirements.txt   # Backend dependencies
+│   ├── routes/             # API routes (auth, resume, jobs)
+│   ├── models/             # Database models
+│   ├── utils/              # NLP and resume processing logic
+│   └── .env                # Environment variables
 │
 ├── frontend/
-│ ├── index.html # Landing page
-│ ├── login.html # Login page
-│ ├── signup.html # Signup page
-│ ├── dashboard.html # User dashboard
-│ ├── css/ # Styles (Tailwind)
-│ └── js/ # Client-side JavaScript
+│   ├── index.html          # Landing page
+│   ├── login.html          # Login page
+│   ├── signup.html         # Signup page
+│   ├── dashboard.html     # User dashboard
+│   ├── css/                # Styles (Tailwind)
+│   └── js/                 # Client-side JavaScript
 
 ---
 
