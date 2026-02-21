@@ -62,7 +62,6 @@ Smart Resume Analyzer & Job Recommender is an AI-driven web application that hel
 
 ---
 
-## 🗂️ Project Structure
 project-root/
 │
 ├── backend/
